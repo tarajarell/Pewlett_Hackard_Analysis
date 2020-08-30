@@ -49,3 +49,14 @@ CREATE TABLE titles (
   FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
 	PRIMARY KEY (emp_no, from_date)
 );
+
+
+
+
+-- Joining current_employees and titles
+SELECT ce.emp_no, ce.first_name, ce.last_name, t.title
+INTO retirement_titles_practice
+FROM current_emp as ce
+LEFT JOIN titles as t
+ON ce.emp_no = t.emp_no;
+SELECT * FROM retirement_titles_practice
