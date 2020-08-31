@@ -2,8 +2,14 @@
 
 ## Purpose
 To prepare for upcoming staff retirements, Pewlett Hackard has tasked its Human Resources Department with compiling a list of soon-to be retirees at the company. Additionally, a list of staff who are 10 years from retirement age was compiled as candidates for a mentorship program. Mentorship candidates will work with soon-to-be retirees to better prepare those staff individually, and the company overall, for when the retirees leave. 
+### Data
+Four tables and CSV files were created to fulfill this brief and are described more in the Results and Summary sections below.
 
 ## Results
+Overall, the data on the tables yielded information for all employee numbers of staff who were born between 1952 and 1955.
+### Data
+- 90398 names with unique employee ID numbers were returned in the query for staff who may be eligible for retirement
+- Senior Engineers had the highest count by employee title at 29414 of the 90398 employees found in the table
 - 
 
 ## Summary
