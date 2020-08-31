@@ -21,7 +21,6 @@ INTO retiring_titles
 FROM unique_titles AS ut
 GROUP BY ut.title
 ORDER BY count DESC;
-SELECT * FROM retiring_titles;
 -- Create Mentorship Eligibility table
 SELECT DISTINCT ON (emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date, de.from_date, de.to_date, t.title
 INTO mentorship_eligibility
