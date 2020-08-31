@@ -24,7 +24,7 @@ Additional queries could be run to create tables which include more specific inf
 1. The data for retirees included past emoployees as well as current employees. The numbers of current employees who are eligible for retirement may be less than what we found in the abovementioned queries, resulting in less mentors needed to match to retirees.
 2. If the numbers for retiring employees are still not close to the numbers for mentors after all past employees are removed from them, it may behoove the HR team to run another query related to the mentorship eligibility. Specifically, increasing the mentorship eligibility information to include multiple birth years rather than one may enlarge the pool of employees to match with a soon-to-be retired emaployee.
 
-
+![Retirees_List_syntax.jpg](https://github.com/tarajarell/Pewlett_Hackard_Analysis/blob/master/Resources/Retirees_List_syntax.jpg)
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
