@@ -1,12 +1,21 @@
 # Pewlett_Hackard_Analysis
 
-Deliverable 3: A written report on the employee database analysis (20 points)
-Deliverable 3 Instructions
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
+## Purpose
+To prepare for upcoming staff retirements, Pewlett Hackard has tasked its Human Resources Department with compiling a list of soon-to be retirees at the company. Additionally, a list of staff who are 10 years from retirement age was compiled as candidates for a mentorship program. Mentorship candidates will work with soon-to-be retirees to better prepare those staff individually, and the company overall, for when the retirees leave. 
+### Data
+Four tables and CSV files were created to fulfill this brief and are described more in the Results and Summary sections below.
 
-The analysis should contain the following:
+## Results
+Overall, the data on the tables yielded information for all employee numbers of staff who were born between 1952 and 1955.
+### Data
+- 90,398 names with unique employee ID numbers were returned in the query for staff who may be eligible for retirement
+- Senior Engineers had the highest count by employee title at 29,414 of the 90,398 employees found in the table
+- 1,549 current employees are eligible under the birth date criteria to participate in the mentorship program
+- 88,849 retiring employees would not have mentor matches 
 
-Overview of the analysis: Explain the purpose of this analysis.
+![Tux, the Linux mascot](/assets/images/tux.png)
+
+## Summary
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
