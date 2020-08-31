@@ -7,8 +7,7 @@ To prepare for upcoming staff retirements, Pewlett Hackard has tasked its Human 
 Four tables and CSV files were created to fulfill this brief and are described more in the Results and Summary sections below.
 
 ## Results
-Overall, the data on the tables yielded information for all employee numbers of staff who were born between 1952 and 1955.
-### Data
+### Data Gathered
 - 90,398 names with unique employee ID numbers were returned in the query for staff who may be eligible for retirement
 - Senior Engineers had the highest count by employee title at 29,414 of the 90,398 employees found in the table
 - 1,549 current employees (not retiring soon) are eligible under the birth date criteria to participate in the mentorship program
