@@ -23,11 +23,11 @@ Overall, the data on the tables yielded information for all employee numbers of 
 
 -Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-No
+Yes
 ### Recommendations
 Additional queries could be run to create tables which include more specific information to help support Pewlett Hackard prepare for the upcoming "silver tsunami."
-1. The data for retirees included past emoployees as well as current employees. The numbers of current employees who are eligible for retirement may be less than what we found in the abovementioned queries, resulting in less mentors needed to match to retirees.
-2. If the numbers for retiring employees are still not close to the numbers for mentors after all past employees are removed from them, it may behoove the HR team to run another query related to the mentorship eligibility. Specifically, increasing the mentorship eligibility information to include multiple birth years rather than one may enlarge the pool of employees to match with a soon-to-be retired emaployee.
+1. The data for retirees included past employees as well as current employees. The numbers of current employees who are eligible for retirement may be less than what we found in the abovementioned queries. It may benefit moving forward with the mentorship program to run a query and obtain how many retirement aged employees are currently working at Pewlett Hackard.
+2. It may behoove the HR team to run another query related to the mentorship eligibility. Specifically, running the mentorship eligibility information to include more or less birth dates may enlarge or reduce the pool of employees to match with a soon-to-be retired emaployee.
 
 ![Retirees_List_syntax.jpg](https://github.com/tarajarell/Pewlett_Hackard_Analysis/blob/master/Resources/Retirees_List_syntax.jpg)
 ![Mentorship_Eligibility_syntax.jpg](https://github.com/tarajarell/Pewlett_Hackard_Analysis/blob/master/Resources/Mentorship_Eligibility_syntax.jpg)
