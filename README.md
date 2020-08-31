@@ -13,7 +13,7 @@ Overall, the data on the tables yielded information for all employee numbers of 
 - 1,549 current employees are eligible under the birth date criteria to participate in the mentorship program
 - 88,849 retiring employees would not have mentor matches 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Retirement_Count_by_Title.jpg](https://github.com/tarajarell/Pewlett_Hackard_Analysis/blob/master/Resources/Retirement_Count_by_Title.jpg)
 
 ## Summary
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
